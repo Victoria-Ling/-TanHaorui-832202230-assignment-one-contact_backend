@@ -1,6 +1,6 @@
 package ling.victoria.contact.service.impl;
 
-import ling.victoria.contact.Mapper.EmpMapper;
+import ling.victoria.contact.mapper.EmpMapper;
 import ling.victoria.contact.pojo.Emp;
 import ling.victoria.contact.pojo.PageBean;
 import ling.victoria.contact.service.EmpService;

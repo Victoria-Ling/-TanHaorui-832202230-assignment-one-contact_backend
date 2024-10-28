@@ -1,4 +1,4 @@
-package ling.victoria.contact.Mapper;
+package ling.victoria.contact.mapper;
 
 import ling.victoria.contact.pojo.Emp;
 import org.apache.ibatis.annotations.Mapper;
