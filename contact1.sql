@@ -1,3 +1,4 @@
+
 /*
  Navicat Premium Data Transfer
 
@@ -42,3 +43,4 @@ INSERT INTO `emp` VALUES (5, '11111', '114514', 2, 1, '2024-10-27 00:45:43', '20
 INSERT INTO `emp` VALUES (6, '11', '11', 1, 0, '2024-10-27 00:52:36', '2024-10-27 00:52:41');
 
 SET FOREIGN_KEY_CHECKS = 1;
+
